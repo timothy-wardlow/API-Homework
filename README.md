@@ -1,5 +1,5 @@
 # API-Homework
-##Timothy Wardlow
+## Timothy Wardlow
 
 #### In this homework activity, focused on using APIs, we created two financial analysis tools.
 #### The first; a personal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
